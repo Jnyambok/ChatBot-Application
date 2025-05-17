@@ -3,5 +3,6 @@ pinecone-client
 python-dotenv
 streamlit
 pinecone
+ipywidgets
 langchain-community
 huggingface_hub
